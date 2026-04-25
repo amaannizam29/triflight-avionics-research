@@ -16,7 +16,7 @@ The project remained at research/software/planning stage due to lack of hardware
 ## Repository Structure
 
 ```text
-triflight_github_repo/
+triflight-avionics-research/
 ├── README.md
 ├── LICENSE.md
 ├── requirements.txt
@@ -59,3 +59,11 @@ python src/triflight_mavlink_logger.py --conn udp:127.0.0.1:14550 --out trifligh
 ## Status
 
 Research and software documentation complete. Hardware testing pending.
+
+## Research Report
+
+📄 Full report:  
+[TriFlight Avionics Research Report](docs/TriFlight_Research_Paper_V3.pdf)
+
+Includes system architecture, avionics design, MAVLink telemetry, and validation methodology.  
+No experimental results are included — hardware testing pending.
