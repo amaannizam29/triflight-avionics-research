@@ -47,14 +47,12 @@ pip install -r requirements.txt
 Serial connection:
 
 ```bash
-python src/triflight_mavlink_logger.py --conn COM7 --baud 57600 --out triflight_log.csv
-```
+python src/triflight_mavlink_logger.py --conn COM7 --baud 57600 --out log.csv```
 
 ArduPilot SITL / UDP:
 
 ```bash
-python src/triflight_mavlink_logger.py --conn udp:127.0.0.1:14550 --out triflight_sitl_log.csv
-```
+python src/triflight_mavlink_logger.py --conn udp:127.0.0.1:14550 --out sitl_log.csv```
 
 ## Status
 
