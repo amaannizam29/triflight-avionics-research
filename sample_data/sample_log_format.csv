@@ -1,0 +1,2 @@
+utc_time,mode,msg_type,lat_deg,lon_deg,relative_alt_m,groundspeed_mps,airspeed_mps,roll_deg,pitch_deg,yaw_deg,battery_voltage_v,battery_current_a,battery_remaining_pct
+2026-04-25T00:00:00+00:00,STABILIZE,GLOBAL_POSITION_INT,,,,,,,,,,,
